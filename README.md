@@ -17,10 +17,9 @@ This repository contains the analysis and machine learning models used for my Ca
 - `analysis.ipynb`: The main Python notebook containing data acquisition and the ML model.
 - `capstone_final_data.csv`: The cleaned dataset used for the final paper.
 - `descriptive_stats.csv`: Statistical summary of the 179 countries.
-- `visualizations/`: Folder containing the Feature Importance and Scatter plots.
 
 ## Installation & Usage
-1. Clone this repo: `git clone https://github.com/yourusername/capstone-recovery.git`
+1. Clone this repo: `git clone https://github.com/anuska-mukherjee/capstone-recovery.git`
 2. Install dependencies: `pip install wbgapi pandas scikit-learn seaborn matplotlib`
 3. Run the notebook to fetch live data and reproduce the model results.
 
